@@ -26,6 +26,15 @@ figcaption {
   padding-bottom: 5%;
 }
 
+p {
+  margin: 0 auto;
+  font-family: "IM Fell French Canon SC", serif;
+  font-weight: 600;
+  font-style: normal;
+  color: #f3d6dfff;
+  font-size: 100%;
+}
+
 nav {
   margin: 0 auto;
   display: flex;
@@ -112,3 +121,9 @@ iframe {
   background-color: black;
   border-radius: 20%;
 }
+
+.list {
+  background-color: black;
+  border-radius: 20%;
+}
+
