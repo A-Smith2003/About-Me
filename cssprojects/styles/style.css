@@ -347,6 +347,12 @@ iframe {
   padding-top: 5%;
 }
 
+.proj-4 {
+  background-color: black;
+  padding-bottom: 1%;
+  border-radius: 10%;
+}
+
 /*Loader animation*/
 .loader {
   display: inline-grid;
@@ -535,3 +541,4 @@ img:nth-last-child(2):nth-child(4) {
 img:last-child:nth-child(5) {
   offset-distance: 100%;
 }
+
